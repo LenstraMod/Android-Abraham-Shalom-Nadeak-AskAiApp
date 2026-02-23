@@ -25,7 +25,7 @@ The app supports chat sessions, history management, authentication, and profile 
 
 ## 📃 Step by step to run it
 1. Copy the repository link from this project
-<pre>https://github.com/LenstraMod/Android-Abraham-Shalom-Nadeak-AskAiApp.git</pre>
+<pre>https://github.com/LenstraMod/Android-Abraham_Shalom_Nadeak-AskAiApp.git</pre>
 
 2. Clone the project by paste the repository link in the clone repository menu in the Android Studio main page
 <img width="424" height="325" alt="image" src="https://github.com/user-attachments/assets/664a0420-f4df-4c67-9a74-b152116fa770" />
