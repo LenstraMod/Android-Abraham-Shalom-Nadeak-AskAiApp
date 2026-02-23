@@ -23,6 +23,9 @@ The app supports chat sessions, history management, authentication, and profile 
 <img width="398" height="878" alt="image" src="https://github.com/user-attachments/assets/69a3885a-e33a-47cb-b921-9761d8339169" />
 <img width="394" height="879" alt="image" src="https://github.com/user-attachments/assets/a65bb100-743c-4bbd-83d6-a508aa0d2cce" />
 
+## 📃 Step by step to run it
+
+
 
 
 
